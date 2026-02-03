@@ -24,6 +24,7 @@
 ```conf
 [http_backend]
 [https://raw.githubusercontent.com/Neurocoda/QuanDB/main/QX_DB_Manager.js](https://raw.githubusercontent.com/Neurocoda/QuanDB/main/QX_DB_Manager.js), tag=QuanDB, path=^/db/, enabled=true
+```
 
 ### 📱 效果展示
 
