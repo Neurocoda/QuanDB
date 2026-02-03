@@ -14,7 +14,7 @@
  *
  * [Quantumult X Config]
  * [http_backend]
- * QuanDB.js, tag=QX_DB_Manager, path=^/db/, enabled=true
+ * https://raw.githubusercontent.com/Neurocoda/QuanDB/refs/heads/main/QuanDB.js, tag=QX_DB_Manager, path=^/db/, enabled=true
  */
 
 const WATCH_LIST_KEY = "QX_DB_WATCHLIST";
